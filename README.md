@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am a student of the University of the Witwatersrand studying Bachelor of Science in Computer Science. I have a passion for computer software and programming. I like learning new programming languages, frameworks and other software technologies. I love software development.
+I am a student of the University of the Witwatersrand studying Bachelor of Science in Computer Science. I have a passion for computer software and programming. I like learning new programming languages, frameworks and other software technologies.
 
 * 🌍  I'm based in Johannesburg, South Africa
 * ✉️  You can contact me at [mzaidmns@gmail.com](mailto:mzaidmns@gmail.com)
