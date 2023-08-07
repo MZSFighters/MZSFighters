@@ -9,7 +9,7 @@ I am a student of the University of the Witwatersrand studying Bachelor of Scien
 * 🌍  I'm based in Johannesburg, South Africa
 * ✉️  You can contact me at [mzaidmns@gmail.com](mailto:mzaidmns@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on interesting projects and software solutions
+* 🤝  I'm open to collaborating on interesting projects and other software solutions
 * ⚡  I like playing FIFA and am a CR7 fan
 
 ### Skills
